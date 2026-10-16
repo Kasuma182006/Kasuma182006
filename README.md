@@ -16,10 +16,10 @@ Soy **Andrés V.**, desarrollador de software. Construyo aplicaciones y APIs, y 
 
 Basado en mis repositorios públicos:
 
-🕹️ **Lenguajes:** Java · Kotlin · Python · JavaScript · CSS · Jupyter Notebook
-🍵 **Frameworks y librerías:** Spring Boot · JPA · JUnit 5
-💾 **Datos y backend:** H2 · Supabase ·Postgresql ·MariaDB/MySQL   
-🏯 **Enfoques:** Arquitectura N capas/MVC · Arquitectura hexagonal · APIs REST
+- 🕹️ **Lenguajes:** Java · Kotlin · Python · JavaScript · CSS · Jupyter Notebook
+- 🍵 **Frameworks y librerías:** Spring Boot · JPA · JUnit 5
+- 💾 **Datos y backend:** H2 · Supabase · PostgreSQL · MariaDB/MySQL
+- 🏯 **Enfoques:** Arquitectura N capas/MVC · Arquitectura hexagonal · APIs REST
 
 ## 🗻 Proyectos destacados
 
