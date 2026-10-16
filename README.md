@@ -31,10 +31,10 @@ Basado en mis repositorios públicos:
 <!-- REPOS:START -->
 | 📦 Repositorio | 📝 Descripción | 🕹️ Lenguaje | 📅 Creado |
 | --- | --- | --- | --- |
-| [Proyecto_Arquitectura_Ncapas-MVC](https://github.com/Kasuma182006/Proyecto_Arquitectura_Ncapas-MVC) | Proyecto educativo de gestión de personas con arquitectura N capas/MVC | Java | 2026-10-15 |
-| [Proyecto_Arquitectura_Hexagonal](https://github.com/Kasuma182006/Proyecto_Arquitectura_Hexagonal) | Migración del proyecto N capas/MVC a arquitectura hexagonal | Java | 2026-10-15 |
-| [prueba_API_Bicicletas](https://github.com/Kasuma182006/prueba_API_Bicicletas) | API REST de alquiler de bicicletas con Spring Boot, JPA/H2 y JUnit 5 | Java | 2026-09-07 |
+| [Proyecto_Arquitectura_Ncapas-MVC](https://github.com/Kasuma182006/Proyecto_Arquitectura_Ncapas-MVC) | proyecto para la gestión de personas con fines educativos (versión con más integraciones en el repositorio de arqutiectura hexagonal)  | Java | 2026-10-15 |
+| [Proyecto_Arquitectura_Hexagonal](https://github.com/Kasuma182006/Proyecto_Arquitectura_Hexagonal) | Migración de un proyecto en arquitectura N capas / MVC  a una arquitectura Hexagonal, puedes encontrar el proyecto con la anterior arquitectura llamada " Proyecto_Arquitectura_ N_ capas / MVC " | Java | 2026-10-15 |
+| [prueba_API_Bicicletas](https://github.com/Kasuma182006/prueba_API_Bicicletas) | API REST de alquiler de bicicletas · Prueba técnica en Java 21, Spring Boot, JPA/H2 y JUnit 5. Reglas de negocio de tarificación y validaciones de estado cubiertas por pruebas. | Java | 2026-09-07 |
 | [backendEntySoftware](https://github.com/Kasuma182006/backendEntySoftware) | Proyecto para la creación de un sistema de menús para propietarios de locales pequeños, con el que podrán manejar pedidos, gastos e ingresos y generar reportes | Java | 2026-05-27 |
-| [MiCajaPlus](https://github.com/Kasuma182006/MiCajaPlus) | App de inventario, ventas, costos y fiado para pequeños comerciantes | Kotlin | 2026-02-23 |
-| [BackendMiCajaPlus](https://github.com/Kasuma182006/BackendMiCajaPlus) | Backend en Python de MiCajaPlus | Python | 2026-02-22 |
+| [MiCajaPlus](https://github.com/Kasuma182006/MiCajaPlus) | Esta aplicación está diseñada para apoyar a pequeños tenderos en la gestión de su negocio. Permite llevar el control del inventario, registrar ventas, costos y gastos, administrar créditos a clientes y visualizar estadísticas básicas sobre el rendimiento de la tienda. | Kotlin | 2026-02-23 |
+| [BackendMiCajaPlus](https://github.com/Kasuma182006/BackendMiCajaPlus) | Backend en python para la conexión con la base de datos para la app de tenderos: https://github.com/Kasuma182006/MicajaPlus | Python | 2026-02-22 |
 <!-- REPOS:END -->
